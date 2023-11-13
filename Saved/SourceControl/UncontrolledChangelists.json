@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/characters/timmy/Ch09_1001_Diffuse.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/characters/timmy/Ch09_1001_Glossiness.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/characters/timmy/Ch09_1001_Normal.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/characters/timmy/Ch09_1001_Specular.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/characters/timmy/Ch09_body.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/characters/timmy/CH_timmy.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/characters/timmy/CH_timmy_PhysicsAsset.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/characters/timmy/CH_timmy_Skeleton.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/anim_Jump.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/anim_Jump_PhysicsAsset.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Ch09_1001_Diffuse.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Ch09_1001_Glossiness.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Ch09_1001_Normal.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Ch09_1001_Specular.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Ch09_body.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Petting_Animal.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Petting_Animal_PhysicsAsset.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Terrified.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Terrified_PhysicsAsset.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/timmy_animA.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/timmy_legacy_blendSpace.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ESCENAS/menuLevel.umap",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/anim_Jump_Anim_mixamo_com.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/ia_sprint.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Petting_Animal_Anim_mixamo_com.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Terrified_Anim_mixamo_com.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Drunk_Run_Forward.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Falling_To_Landing.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Idle.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Jumping_Down.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Jumping_Up.uasset",
+				"D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ANIMACIONES/timmy/Walking.uasset"
+			]
+		}
+	]
+}
