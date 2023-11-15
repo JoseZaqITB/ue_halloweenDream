@@ -2195,3 +2195,1256 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.11.15-16.01.20:124][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.29 sec)
 [2023.11.15-16.01.20:125][196]AssetCheck: New page: Asset Save: menuLevel
 [2023.11.15-16.01.20:125][196]LogContentValidation: Display: Validating /Script/Engine.World /Game/JUEGO/ESCENAS/menuLevel.menuLevel
+[2023.11.15-16.02.37:250][383]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.15-16.02.37:250][383]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.02.37:250][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.02.37:373][383]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.02.37:528][385]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.02.47:213][243]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.02.47:213][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.02.54:843][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.02.54:863][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.02.54:889][973]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.02.54:948][976]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.02.54:969][977]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.02.57:516][188]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_1
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:516][188]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_1
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:516][188]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_1
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:529][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_2
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:529][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_2
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:529][189]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_2
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:542][190]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_3
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:542][190]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_3
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:542][190]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_3
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:555][191]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_4
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:555][191]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_4
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:555][191]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_4
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:583][192]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_5
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:583][192]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_5
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:583][192]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_5
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:596][193]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_6
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:596][193]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_6
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:596][193]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_6
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:610][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_7
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:610][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_7
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:610][194]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_7
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:623][195]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_8
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:623][195]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_8
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:623][195]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_8
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:637][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_9
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:637][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_9
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:637][196]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_9
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:651][197]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_10
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:651][197]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_10
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:651][197]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_10
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:664][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_11
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:665][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_11
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:665][198]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_11
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:679][199]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_12
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:679][199]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_12
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:679][199]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_12
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:692][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_13
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:692][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_13
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:693][200]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_13
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:707][201]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_14
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:707][201]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_14
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:707][201]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_14
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:720][202]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_15
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:720][202]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_15
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:720][202]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_15
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:734][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_16
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:734][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_16
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:734][203]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_16
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:748][204]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_17
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:748][204]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_17
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:748][204]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_17
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:761][205]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_18
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:761][205]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_18
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:761][205]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_18
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:776][206]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_19
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:776][206]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_19
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:776][206]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_19
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:790][207]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_20
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:790][207]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_20
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:790][207]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_20
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:804][208]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_21
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:804][208]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_21
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:804][208]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_21
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:818][209]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_22
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:818][209]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_22
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:818][209]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_22
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:831][210]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_23
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:831][210]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_23
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:831][210]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_23
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:845][211]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_24
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:845][211]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_24
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:845][211]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_24
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:860][212]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_25
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:860][212]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_25
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:860][212]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_25
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:875][213]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_26
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:875][213]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_26
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:875][213]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_26
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:887][214]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_27
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:887][214]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_27
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:887][214]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_27
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:903][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_28
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:903][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_28
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:903][215]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_28
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:916][216]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_29
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:916][216]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_29
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:916][216]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_29
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:930][217]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_30
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:930][217]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_30
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:930][217]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_30
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:944][218]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_31
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:944][218]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_31
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:944][218]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_31
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.02.57:957][219]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_32
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.02.57:957][219]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_32
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.02.57:957][219]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_32
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.02:074][546]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/JUEGO/ASSETS/characters/timmy/CH_timmy_Skeleton.CH_timmy_Skeleton
+[2023.11.15-16.03.02:074][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.03.02:074][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.03.02:081][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.11.15-16.03.02:237][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.03.02:237][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.03.02:391][546]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.11.15-16.03.04:623][771]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.03.04:623][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.03.04:652][771]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.03.04:652][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.03.17:619][859]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_33
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:619][859]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_33
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:619][859]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_33
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:632][860]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_34
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:632][860]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_34
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:632][860]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_34
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:645][861]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_35
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:646][861]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_35
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:646][861]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_35
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:659][862]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_36
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:659][862]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_36
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:659][862]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_36
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:672][863]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_37
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:672][863]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_37
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:672][863]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_37
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:686][864]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_38
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:686][864]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_38
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:686][864]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_38
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:699][865]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_39
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:699][865]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_39
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:699][865]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_39
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:713][866]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_40
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:713][866]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_40
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:713][866]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_40
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:725][867]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_41
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:725][867]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_41
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:725][867]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_41
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:739][868]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_42
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:739][868]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_42
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:739][868]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_42
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:784][869]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_43
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:784][869]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_43
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:784][869]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_43
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:798][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_44
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:798][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_44
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:798][870]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_44
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:813][871]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_45
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:813][871]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_45
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:813][871]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_45
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:826][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_46
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:826][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_46
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:826][872]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_46
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:840][873]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_47
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:840][873]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_47
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:840][873]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_47
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:854][874]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_48
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:854][874]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_48
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:854][874]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_48
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:867][875]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_49
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:867][875]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_49
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:867][875]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_49
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:881][876]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_50
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:881][876]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_50
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:881][876]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_50
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:895][877]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_51
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:895][877]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_51
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:895][877]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_51
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:909][878]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_52
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:909][878]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_52
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:909][878]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_52
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:923][879]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_53
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:923][879]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_53
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:923][879]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_53
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:937][880]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_54
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:937][880]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_54
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:937][880]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_54
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:952][881]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_55
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:952][881]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_55
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:952][881]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_55
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:966][882]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_56
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:966][882]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_56
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:966][882]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_56
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:980][883]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_57
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:980][883]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_57
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:980][883]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_57
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.17:993][884]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_58
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.17:993][884]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_58
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.17:993][884]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_58
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.18:007][885]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_59
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.18:007][885]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_59
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.18:007][885]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_59
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.18:021][886]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_60
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.18:021][886]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_60
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.18:021][886]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_60
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.18:035][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_61
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.18:035][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_61
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.18:035][887]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_61
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.18:060][889]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_62
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.18:060][889]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_62
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.18:060][889]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_62
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.23:985][465]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_63
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.23:985][465]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_63
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.23:985][465]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_63
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.36:286][811]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_64
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:0040
+[2023.11.15-16.03.36:286][811]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_64
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00C8
+[2023.11.15-16.03.36:286][811]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	timmy_animA_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.timmy_animA_C_64
+	Function /Game/JUEGO/ANIMACIONES/timmy/timmy_animA.timmy_animA_C:ExecuteUbergraph_timmy_animA:00F6
+[2023.11.15-16.03.58:397][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.15-16.03.58:397][318]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.03.58:397][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.05.30:948][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.05.31:057][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.05.35:421][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.11.15-16.05.35:421][182]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.05.35:421][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.05.53:712][ 21]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.05.54:168][ 37]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: ================================================
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Total job queries 94, among them cache hits 16 (17.02%)
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Tracking 60 distinct input hashes that result in 49 distinct outputs (81.67%)
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: RAM used: 1,41 MiB of 1,60 GiB budget. Usage: 0.09%
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Shaders Compiled: 48
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Average time worker was idle: 63.68 s
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.36 s
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 0.82 s
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Job life time (pending + execution): average 0.46 s, max 0.90
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Shader code size: average 35,547 KiB, min 1,932 KiB, max 81,133 KiB
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.11 s
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Average processing rate: 2.98 jobs/sec
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Total thread time: 13,712 s
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Total thread preprocess time: 0,494 s
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Percentage time preprocessing: 3.61%
+[2023.11.15-16.05.54:188][ 37]LogShaderCompilers: Display: Effective parallelization: 0.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   32 times, average 0.34 sec, max 0.76 sec, min 0.03 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:                                               FNiagaraShader - 79.88% of total time (compiled   32 times, average 0.34 sec, max 0.76 sec, min 0.03 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 1.74% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 1.68% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 1.59% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 1.56% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2023.11.15-16.05.54:189][ 37]LogShaderCompilers: Display: ================================================
+[2023.11.15-16.05.54:937][ 46]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2023.11.15-16.05.55:101][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.05.55:289][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.05.56:850][140]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.05.57:012][144]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.05.57:116][145]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.06.33:990][288]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.06.33:990][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.06.34:815][347]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.15-16.06.34:815][347]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.06.34:815][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.07.48:053][656]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.07.48:053][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.07.48:077][656]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.07.48:077][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.07.56:937][677]LogSlate: Took 0.004838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.15-16.09.10:499][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.09.10:548][259]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.09.10:660][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/GAME/PERSONAJE" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset" SILENT=true
+[2023.11.15-16.09.10:668][259]LogSavePackage: Moving output files for package: /Game/JUEGO/GAME/PERSONAJE
+[2023.11.15-16.09.10:668][259]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/PERSONAJE02BEF30A43A722915A8827A0226D007F.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset'
+[2023.11.15-16.09.10:673][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 2.46 sec)
+[2023.11.15-16.09.10:680][259]AssetCheck: New page: Asset Save: PERSONAJE
+[2023.11.15-16.09.10:680][259]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/GAME/PERSONAJE.PERSONAJE
+[2023.11.15-16.12.52:079][127]BlueprintLog: New page: Compile UI_Jugador
+[2023.11.15-16.12.52:127][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.15-16.14.14:133][122]BlueprintLog: New page: Compile UI_Jugador
+[2023.11.15-16.14.14:137][122]LogBlueprint: Error: [AssetLog] D:\CURSOS\UNREAL\Haloween_Dream\Content\JUEGO\INTERFAZ\UI_Jugador.uasset: [Compiler] The property associated with  Life  could not be found in '/Game/JUEGO/INTERFAZ/UI_Jugador.UI_Jugador_C'
+[2023.11.15-16.14.14:137][122]LogBlueprint: Error: [AssetLog] D:\CURSOS\UNREAL\Haloween_Dream\Content\JUEGO\INTERFAZ\UI_Jugador.uasset: [Compiler] The property associated with  Max Life  could not be found in '/Game/JUEGO/INTERFAZ/UI_Jugador.UI_Jugador_C'
+[2023.11.15-16.14.14:148][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.15-16.14.14:715][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.14.14:754][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/INTERFAZ/UI_Jugador" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset" SILENT=true
+[2023.11.15-16.14.14:759][164]LogSavePackage: Moving output files for package: /Game/JUEGO/INTERFAZ/UI_Jugador
+[2023.11.15-16.14.14:759][164]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/UI_Jugador927BDB8745D3592E1915FBBA626350AC.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset'
+[2023.11.15-16.14.14:764][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.51 sec)
+[2023.11.15-16.14.14:766][164]AssetCheck: New page: Asset Save: UI_Jugador
+[2023.11.15-16.14.14:766][164]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/JUEGO/INTERFAZ/UI_Jugador.UI_Jugador
+[2023.11.15-16.14.26:830][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.14.26:933][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/GAME/PERSONAJE" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset" SILENT=true
+[2023.11.15-16.14.26:942][280]LogSavePackage: Moving output files for package: /Game/JUEGO/GAME/PERSONAJE
+[2023.11.15-16.14.26:942][280]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/PERSONAJE30DB5A4E4D16B25C1DD46C818BE89529.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset'
+[2023.11.15-16.14.26:946][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.63 sec)
+[2023.11.15-16.14.26:954][280]AssetCheck: New page: Asset Save: PERSONAJE
+[2023.11.15-16.14.26:954][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/GAME/PERSONAJE.PERSONAJE
+[2023.11.15-16.14.27:861][379]BlueprintLog: New page: Compile PERSONAJE
+[2023.11.15-16.14.27:897][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.15-16.14.28:460][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.14.28:562][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/GAME/PERSONAJE" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset" SILENT=true
+[2023.11.15-16.14.28:571][430]LogSavePackage: Moving output files for package: /Game/JUEGO/GAME/PERSONAJE
+[2023.11.15-16.14.28:571][430]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/PERSONAJE8A42CBCE4B361AFFB79388808F98A209.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset'
+[2023.11.15-16.14.28:576][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.75 sec)
+[2023.11.15-16.14.28:583][430]AssetCheck: New page: Asset Save: PERSONAJE
+[2023.11.15-16.14.28:583][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/GAME/PERSONAJE.PERSONAJE
+[2023.11.15-16.14.31:567][658]BlueprintLog: New page: Compile UI_Jugador
+[2023.11.15-16.14.31:584][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.15-16.14.33:189][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.14.33:234][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/INTERFAZ/UI_Jugador" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset" SILENT=true
+[2023.11.15-16.14.33:239][828]LogSavePackage: Moving output files for package: /Game/JUEGO/INTERFAZ/UI_Jugador
+[2023.11.15-16.14.33:239][828]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/UI_JugadorD44A1F4B41C5690E433C86996325FB18.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset'
+[2023.11.15-16.14.33:244][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 2.80 sec)
+[2023.11.15-16.14.33:249][828]AssetCheck: New page: Asset Save: UI_Jugador
+[2023.11.15-16.14.33:249][828]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/JUEGO/INTERFAZ/UI_Jugador.UI_Jugador
+[2023.11.15-16.15.03:914][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.15.03:950][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/INTERFAZ/UI_Jugador" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset" SILENT=true
+[2023.11.15-16.15.03:955][469]LogSavePackage: Moving output files for package: /Game/JUEGO/INTERFAZ/UI_Jugador
+[2023.11.15-16.15.03:955][469]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/UI_Jugador112AFC254F222685B32E278A10218E83.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset'
+[2023.11.15-16.15.03:960][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.85 sec)
+[2023.11.15-16.15.03:968][469]AssetCheck: New page: Asset Save: UI_Jugador
+[2023.11.15-16.15.03:968][469]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/JUEGO/INTERFAZ/UI_Jugador.UI_Jugador
+[2023.11.15-16.15.04:453][522]BlueprintLog: New page: Compile UI_Jugador
+[2023.11.15-16.15.04:477][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.15-16.15.14:828][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.15-16.15.14:833][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.15-16.15.14:833][183]PIE: New page: PIE session: menuLevel (15 nov. 2023 18:15:14)
+[2023.11.15-16.15.14:833][183]LogPlayLevel: Creating play world package: /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-16.15.14:836][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002719s)
+[2023.11.15-16.15.14:836][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JUEGO/ESCENAS/menuLevel.menuLevel to /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel (0.002746s)
+[2023.11.15-16.15.14:845][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.15-16.15.14:849][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.15.14:849][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.15.14:849][183]LogAIModule: Creating AISystem for world menuLevel
+[2023.11.15-16.15.14:849][183]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2023.11.15-16.15.14:850][183]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.15-16.15.14:850][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.15-16.15.14:850][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.15-16.15.14:850][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.15-16.15.14:850][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.15-16.15.14:850][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.15-16.15.14:850][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.15-16.15.14:850][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.15-16.15.14:850][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.15-16.15.14:850][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.15-16.15.14:850][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.15-16.15.14:850][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.15-16.15.14:852][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.15-16.15.14:864][183]LogAudioMixer: Display: Using Audio Hardware Device VY249 (NVIDIA High Definition Audio)
+[2023.11.15-16.15.14:864][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.15-16.15.14:864][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.15-16.15.14:864][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.15-16.15.14:865][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.11.15-16.15.14:865][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.11.15-16.15.14:867][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.11.15-16.15.14:867][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.11.15-16.15.14:867][183]LogInit: FAudioDevice initialized with ID 5.
+[2023.11.15-16.15.14:867][183]LogAudio: Display: Audio Device (ID: 5) registered with world 'menuLevel'.
+[2023.11.15-16.15.14:867][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.15-16.15.14:869][183]LogLoad: Game class is 'MISREGLAS_C'
+[2023.11.15-16.15.14:871][183]LogWorld: Bringing World /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel up for play (max tick rate 0) at 2023.11.15-17.15.14
+[2023.11.15-16.15.14:871][183]LogWorld: Bringing up level for play took: 0.001181
+[2023.11.15-16.15.14:873][183]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.11.15-16.15.14:875][183]PIE: Server logged in
+[2023.11.15-16.15.14:876][183]PIE: Play in editor total start time 0,043 seconds.
+[2023.11.15-16.15.24:002][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-16.15.24:002][207]LogWorld: BeginTearingDown for /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-16.15.24:003][207]LogWorld: UWorld::CleanupWorld for menuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.15.24:003][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.15.24:007][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.15-16.15.24:012][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.15.24:022][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.15-16.15.24:022][207]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.15-16.15.24:022][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.15-16.15.24:023][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.15-16.15.24:027][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-16.15.24:029][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.15-16.15.24:059][208]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.11.15-16.16.29:139][371]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.15-16.16.48:727][341]BlueprintLog: New page: Compile UI_Jugador
+[2023.11.15-16.16.48:748][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.15-16.16.49:180][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.16.49:236][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/INTERFAZ/UI_Jugador" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset" SILENT=true
+[2023.11.15-16.16.49:241][360]LogSavePackage: Moving output files for package: /Game/JUEGO/INTERFAZ/UI_Jugador
+[2023.11.15-16.16.49:242][360]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/UI_JugadorD5E194EA4DFDCEFC62B860971BCAA7CF.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset'
+[2023.11.15-16.16.49:249][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.92 sec)
+[2023.11.15-16.16.49:253][360]AssetCheck: New page: Asset Save: UI_Jugador
+[2023.11.15-16.16.49:253][360]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/JUEGO/INTERFAZ/UI_Jugador.UI_Jugador
+[2023.11.15-16.16.51:936][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.15-16.16.51:940][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.15-16.16.51:940][649]PIE: New page: PIE session: menuLevel (15 nov. 2023 18:16:51)
+[2023.11.15-16.16.51:940][649]LogPlayLevel: Creating play world package: /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-16.16.51:944][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003023s)
+[2023.11.15-16.16.51:944][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JUEGO/ESCENAS/menuLevel.menuLevel to /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel (0.003056s)
+[2023.11.15-16.16.51:955][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.15-16.16.51:960][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.16.51:960][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.16.51:961][649]LogAIModule: Creating AISystem for world menuLevel
+[2023.11.15-16.16.51:961][649]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2023.11.15-16.16.51:961][649]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.11.15-16.16.51:961][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.15-16.16.51:961][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.15-16.16.51:961][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.15-16.16.51:961][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.15-16.16.51:961][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.15-16.16.51:961][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.15-16.16.51:961][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.15-16.16.51:961][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.15-16.16.51:962][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.15-16.16.51:962][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.15-16.16.51:962][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.15-16.16.51:964][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.15-16.16.51:974][649]LogAudioMixer: Display: Using Audio Hardware Device VY249 (NVIDIA High Definition Audio)
+[2023.11.15-16.16.51:974][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.15-16.16.51:974][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.15-16.16.51:974][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.15-16.16.51:975][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.11.15-16.16.51:975][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.11.15-16.16.51:976][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.11.15-16.16.51:976][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.11.15-16.16.51:976][649]LogInit: FAudioDevice initialized with ID 6.
+[2023.11.15-16.16.51:976][649]LogAudio: Display: Audio Device (ID: 6) registered with world 'menuLevel'.
+[2023.11.15-16.16.51:976][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.15-16.16.51:979][649]LogLoad: Game class is 'MISREGLAS_C'
+[2023.11.15-16.16.51:980][649]LogWorld: Bringing World /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel up for play (max tick rate 0) at 2023.11.15-17.16.51
+[2023.11.15-16.16.51:980][649]LogWorld: Bringing up level for play took: 0.001114
+[2023.11.15-16.16.51:982][649]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.11.15-16.16.51:985][649]PIE: Server logged in
+[2023.11.15-16.16.51:985][649]PIE: Play in editor total start time 0,045 seconds.
+[2023.11.15-16.16.53:575][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-16.16.53:575][808]LogWorld: BeginTearingDown for /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-16.16.53:575][808]LogWorld: UWorld::CleanupWorld for menuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.16.53:576][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.16.53:579][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.15-16.16.53:582][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.16.53:593][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.15-16.16.53:594][808]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.15-16.16.53:594][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.15-16.16.53:595][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.15-16.16.53:598][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-16.16.53:600][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.15-16.16.53:667][810]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.11.15-16.17.01:144][644]BlueprintLog: New page: Compile PERSONAJE
+[2023.11.15-16.17.01:178][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.15-16.17.01:705][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.17.01:793][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/GAME/PERSONAJE" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset" SILENT=true
+[2023.11.15-16.17.01:802][685]LogSavePackage: Moving output files for package: /Game/JUEGO/GAME/PERSONAJE
+[2023.11.15-16.17.01:802][685]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/PERSONAJEABFD901D467A3303914F55A3343A7DBD.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset'
+[2023.11.15-16.17.01:806][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 3.02 sec)
+[2023.11.15-16.17.01:814][685]AssetCheck: New page: Asset Save: PERSONAJE
+[2023.11.15-16.17.01:814][685]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/GAME/PERSONAJE.PERSONAJE
+[2023.11.15-16.17.05:962][979]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.15-16.17.05:965][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.15-16.17.05:965][979]PIE: New page: PIE session: menuLevel (15 nov. 2023 18:17:05)
+[2023.11.15-16.17.05:965][979]LogPlayLevel: Creating play world package: /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-16.17.05:968][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002656s)
+[2023.11.15-16.17.05:968][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JUEGO/ESCENAS/menuLevel.menuLevel to /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel (0.002683s)
+[2023.11.15-16.17.05:980][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.11.15-16.17.05:983][979]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.17.05:983][979]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.17.05:983][979]LogAIModule: Creating AISystem for world menuLevel
+[2023.11.15-16.17.05:984][979]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2023.11.15-16.17.05:984][979]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.11.15-16.17.05:984][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.15-16.17.05:984][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.15-16.17.05:984][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.15-16.17.05:984][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.15-16.17.05:984][979]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.15-16.17.05:984][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.15-16.17.05:984][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.15-16.17.05:984][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.15-16.17.05:984][979]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.15-16.17.05:984][979]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.15-16.17.05:984][979]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.15-16.17.05:986][979]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.15-16.17.05:996][979]LogAudioMixer: Display: Using Audio Hardware Device VY249 (NVIDIA High Definition Audio)
+[2023.11.15-16.17.05:996][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.15-16.17.05:996][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.15-16.17.05:996][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.15-16.17.05:997][979]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.11.15-16.17.05:997][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.11.15-16.17.05:998][979]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.11.15-16.17.05:998][979]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.11.15-16.17.05:998][979]LogInit: FAudioDevice initialized with ID 7.
+[2023.11.15-16.17.05:998][979]LogAudio: Display: Audio Device (ID: 7) registered with world 'menuLevel'.
+[2023.11.15-16.17.05:999][979]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.15-16.17.06:001][979]LogLoad: Game class is 'MISREGLAS_C'
+[2023.11.15-16.17.06:002][979]LogWorld: Bringing World /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel up for play (max tick rate 0) at 2023.11.15-17.17.06
+[2023.11.15-16.17.06:002][979]LogWorld: Bringing up level for play took: 0.001134
+[2023.11.15-16.17.06:004][979]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.11.15-16.17.06:006][979]PIE: Server logged in
+[2023.11.15-16.17.06:006][979]PIE: Play in editor total start time 0,042 seconds.
+[2023.11.15-16.17.29:875][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-16.17.29:875][810]LogWorld: BeginTearingDown for /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-16.17.29:877][810]LogWorld: UWorld::CleanupWorld for menuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.17.29:877][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.17.29:884][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.15-16.17.29:889][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.17.29:903][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.15-16.17.29:903][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.15-16.17.29:905][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.15-16.17.29:906][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.15-16.17.29:909][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-16.17.29:911][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.15-16.17.29:944][811]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.11.15-16.17.33:927][269]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.15-16.17.33:927][269]Can't find target element.
+[2023.11.15-16.17.34:947][386]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.15-16.17.40:253][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.15-16.17.44:467][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.15-16.18.23:936][801]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.18.23:936][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.18.23:952][801]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.18.23:952][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.18.23:981][801]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-16.18.23:982][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-16.19.06:335][618]Cmd: EDIT COPY
+[2023.11.15-16.19.06:518][640]Cmd: EDIT PASTE
+[2023.11.15-16.20.28:321][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.20.28:369][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/ESCENAS/menuLevel" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ESCENAS/menuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.15-16.20.28:390][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.11.15-16.20.28:411][ 69]LogSavePackage: Moving output files for package: /Game/JUEGO/ESCENAS/menuLevel
+[2023.11.15-16.20.28:411][ 69]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/menuLevelF8583F71452AC52FC433D99A9C0A4DE0.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ESCENAS/menuLevel.umap'
+[2023.11.15-16.20.28:423][ 69]LogFileHelpers: Saving map 'menuLevel' took 0.055
+[2023.11.15-16.20.28:435][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.13 sec)
+[2023.11.15-16.20.28:436][ 69]AssetCheck: New page: Asset Save: menuLevel
+[2023.11.15-16.20.28:436][ 69]LogContentValidation: Display: Validating /Script/Engine.World /Game/JUEGO/ESCENAS/menuLevel.menuLevel
+[2023.11.15-16.21.53:076][428]BlueprintLog: New page: Compile UI_Jugador
+[2023.11.15-16.21.53:093][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.15-16.21.53:631][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.21.53:671][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/INTERFAZ/UI_Jugador" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset" SILENT=true
+[2023.11.15-16.21.53:676][477]LogSavePackage: Moving output files for package: /Game/JUEGO/INTERFAZ/UI_Jugador
+[2023.11.15-16.21.53:676][477]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/UI_JugadorC8E4995841525D794497C0ADE6F7FD3D.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset'
+[2023.11.15-16.21.53:680][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 3.18 sec)
+[2023.11.15-16.21.53:689][477]AssetCheck: New page: Asset Save: UI_Jugador
+[2023.11.15-16.21.53:689][477]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/JUEGO/INTERFAZ/UI_Jugador.UI_Jugador
+[2023.11.15-16.21.58:311][ 17]LogEditorTransaction: Undo Add Node
+[2023.11.15-16.21.58:638][ 20]LogEditorTransaction: Undo Move Nodes
+[2023.11.15-16.21.58:963][ 27]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.22.00:656][229]LogEditorTransaction: Redo Move Nodes
+[2023.11.15-16.22.00:969][243]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.23.28:717][747]LogEditorTransaction: Undo Rename Node
+[2023.11.15-16.23.29:257][754]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.23.29:267][755]LogEditorTransaction: Undo Move Nodes
+[2023.11.15-16.23.29:491][762]LogEditorTransaction: Undo Move Nodes
+[2023.11.15-16.23.31:264][954]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.23.32:256][ 73]LogEditorTransaction: Undo Move Nodes
+[2023.11.15-16.23.32:542][ 85]LogEditorTransaction: Undo Move Node
+[2023.11.15-16.23.32:787][ 87]LogEditorTransaction: Undo Move Node
+[2023.11.15-16.23.32:991][ 88]LogEditorTransaction: Undo Move Node
+[2023.11.15-16.23.33:110][ 88]LogEditorTransaction: Undo Create Pin Link
+[2023.11.15-16.23.33:325][ 89]LogEditorTransaction: Undo Add Node
+[2023.11.15-16.23.33:442][ 89]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.23.33:773][121]LogEditorTransaction: Undo Add Node
+[2023.11.15-16.23.33:976][124]LogEditorTransaction: Undo Add Node
+[2023.11.15-16.23.34:132][125]LogEditorTransaction: Undo Resize Node
+[2023.11.15-16.23.34:249][125]LogEditorTransaction: Undo Clicking on Elements
+[2023.11.15-16.23.34:372][125]LogEditorTransaction: Undo Move Elements
+[2023.11.15-16.23.35:023][179]LogEditorTransaction: Undo Move Elements
+[2023.11.15-16.23.35:326][193]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.23.36:777][367]LogEditorTransaction: Redo Move Elements
+[2023.11.15-16.23.37:307][375]LogEditorTransaction: Redo Move Elements
+[2023.11.15-16.23.37:459][376]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.23.37:997][439]LogEditorTransaction: Redo Clicking on Elements
+[2023.11.15-16.23.39:208][561]LogEditorTransaction: Redo Resize Node
+[2023.11.15-16.23.39:462][571]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.23.40:097][647]LogEditorTransaction: Undo Resize Node
+[2023.11.15-16.23.40:646][692]LogEditorTransaction: Redo Resize Node
+[2023.11.15-16.23.41:023][697]LogEditorTransaction: Redo Add Node
+[2023.11.15-16.23.41:469][726]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.23.41:502][730]LogEditorTransaction: Undo Add Node
+[2023.11.15-16.23.41:968][763]LogEditorTransaction: Undo Resize Node
+[2023.11.15-16.23.43:471][917]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.23.43:906][968]BlueprintLog: New page: Compile UI_Jugador
+[2023.11.15-16.23.43:972][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.15-16.23.44:358][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.23.44:406][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/INTERFAZ/UI_Jugador" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset" SILENT=true
+[2023.11.15-16.23.44:411][  9]LogSavePackage: Moving output files for package: /Game/JUEGO/INTERFAZ/UI_Jugador
+[2023.11.15-16.23.44:411][  9]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/UI_JugadorCACDF43A4A1B246F8D77C7BF78E62A80.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/INTERFAZ/UI_Jugador.uasset'
+[2023.11.15-16.23.44:416][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 3.24 sec)
+[2023.11.15-16.23.44:421][  9]AssetCheck: New page: Asset Save: UI_Jugador
+[2023.11.15-16.23.44:421][  9]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/JUEGO/INTERFAZ/UI_Jugador.UI_Jugador
+[2023.11.15-16.24.00:316][543]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.15-16.24.00:322][543]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.15-16.24.00:329][543]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.15-16.24.00:339][544]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.15-16.24.04:824][ 81]LogContentBrowser: Attempting asset rename: NewBlueprint -> Damager
+[2023.11.15-16.24.04:828][ 81]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.15-16.24.06:164][240]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JUEGO/ASSETS/Damager.Damager
+[2023.11.15-16.24.06:164][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.24.06:164][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.24.06:279][240]LogViewport: Scene viewport resized to 1233x685, mode Windowed.
+[2023.11.15-16.24.18:892][560]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.24.28:578][490]LogEditorTransaction: Undo Modify Component(s)
+[2023.11.15-16.24.29:160][497]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.24.38:274][357]BlueprintLog: New page: Compile Damager
+[2023.11.15-16.24.38:306][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.15-16.24.38:629][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.24.38:693][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/ASSETS/Damager" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset" SILENT=true
+[2023.11.15-16.24.38:696][378]LogSavePackage: Moving output files for package: /Game/JUEGO/ASSETS/Damager
+[2023.11.15-16.24.38:696][378]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/Damager0B8CA5294AF382B4C56BBF9A6C107CF6.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset'
+[2023.11.15-16.24.38:703][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.31 sec)
+[2023.11.15-16.24.38:703][378]AssetCheck: New page: Asset Save: Damager
+[2023.11.15-16.24.38:703][378]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/ASSETS/Damager.Damager
+[2023.11.15-16.25.47:316][212]LogEditorTransaction: Undo Add Node
+[2023.11.15-16.25.47:860][219]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.27.24:424][317]BlueprintLog: New page: Compile Damager
+[2023.11.15-16.27.24:449][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.11.15-16.27.24:975][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.27.25:050][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/ASSETS/Damager" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset" SILENT=true
+[2023.11.15-16.27.25:053][366]LogSavePackage: Moving output files for package: /Game/JUEGO/ASSETS/Damager
+[2023.11.15-16.27.25:053][366]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/DamagerA2AA089743F624CDC86317955144823B.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset'
+[2023.11.15-16.27.25:058][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 3.40 sec)
+[2023.11.15-16.27.25:065][366]AssetCheck: New page: Asset Save: Damager
+[2023.11.15-16.27.25:065][366]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/ASSETS/Damager.Damager
+[2023.11.15-16.28.46:090][596]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.15-16.28.46:094][596]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.15-16.28.46:103][596]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.15-16.28.46:118][597]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.15-16.28.48:360][845]LogContentBrowser: Attempting asset rename: NewBlueprint -> singleton
+[2023.11.15-16.28.48:365][845]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.15-16.28.52:672][308]BlueprintLog: New page: Compile Damager
+[2023.11.15-16.28.52:695][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.15-16.28.53:135][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.28.53:235][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/ASSETS/Damager" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset" SILENT=true
+[2023.11.15-16.28.53:239][352]LogSavePackage: Moving output files for package: /Game/JUEGO/ASSETS/Damager
+[2023.11.15-16.28.53:239][352]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/Damager0F6897A64C3A5A628DA11FBB75F88900.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset'
+[2023.11.15-16.28.53:244][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 3.51 sec)
+[2023.11.15-16.28.53:249][352]AssetCheck: New page: Asset Save: Damager
+[2023.11.15-16.28.53:249][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/ASSETS/Damager.Damager
+[2023.11.15-16.28.56:012][606]LogSlate: External Image Picker: DecompressImage failed
+[2023.11.15-16.29.12:210][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.15-16.29.13:489][ 81]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.15-16.29.13:505][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.15-16.29.13:519][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.15-16.29.13:530][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.15-16.29.20:070][226]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.15-16.29.20:075][226]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.15-16.29.20:087][226]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.15-16.29.20:088][226]LogAutomationController: Ignoring very large delta of 4.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.15-16.29.20:103][227]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.15-16.29.22:255][412]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.11.15-16.29.22:259][412]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.15-16.29.22:605][441]Cmd: TRANSACTION UNDO
+[2023.11.15-16.29.22:605][441]LogEditorTransaction: Undo Rename Node
+[2023.11.15-16.29.23:160][448]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.29.23:333][460]Cmd: TRANSACTION UNDO
+[2023.11.15-16.29.23:333][460]LogEditorTransaction: Undo Add Node
+[2023.11.15-16.29.25:160][609]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.29.25:776][671]LogEditorTransaction: Redo Add Node
+[2023.11.15-16.29.26:169][690]LogEditorTransaction: Redo Rename Node
+[2023.11.15-16.29.27:160][763]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-16.29.29:531][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.15-16.29.31:695][968]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.15-16.29.31:712][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.11.15-16.29.31:723][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.15-16.29.31:735][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.11.15-16.29.31:780][968]LogAutomationController: Ignoring very large delta of 2.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.15-16.29.47:970][760]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.15-16.29.47:975][760]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.15-16.29.47:987][760]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.15-16.29.47:989][761]LogAutomationController: Ignoring very large delta of 7.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.15-16.29.48:002][761]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.15-16.29.50:728][ 10]LogContentBrowser: Attempting asset rename: NewBlueprint -> singleton
+[2023.11.15-16.29.50:732][ 10]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.15-16.29.54:681][342]BlueprintLog: New page: Compile Damager
+[2023.11.15-16.29.54:703][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.15-16.29.55:141][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.29.55:240][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/ASSETS/Damager" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset" SILENT=true
+[2023.11.15-16.29.55:244][382]LogSavePackage: Moving output files for package: /Game/JUEGO/ASSETS/Damager
+[2023.11.15-16.29.55:244][382]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/DamagerB0EFED7E4B5CEC1A062764B2AA9D0D69.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset'
+[2023.11.15-16.29.55:249][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 3.62 sec)
+[2023.11.15-16.29.55:254][382]AssetCheck: New page: Asset Save: Damager
+[2023.11.15-16.29.55:254][382]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/ASSETS/Damager.Damager
+[2023.11.15-16.30.13:448][102]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.15-16.30.13:458][102]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.15-16.30.17:037][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/JUEGO/GAME/singleton.singleton
+[2023.11.15-16.30.17:037][511]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-16.30.17:037][511]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-16.30.29:575][975]BlueprintLog: New page: Compile singleton
+[2023.11.15-16.30.29:586][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.15-16.30.30:289][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.30.30:338][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/GAME/singleton" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/singleton.uasset" SILENT=true
+[2023.11.15-16.30.30:339][ 49]LogSavePackage: Moving output files for package: /Game/JUEGO/GAME/singleton
+[2023.11.15-16.30.30:339][ 49]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/singleton8D4C0AFB419BF37242DB9CA0DDF80B20.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/singleton.uasset'
+[2023.11.15-16.30.30:345][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 3.67 sec)
+[2023.11.15-16.30.30:345][ 49]AssetCheck: New page: Asset Save: singleton
+[2023.11.15-16.30.30:345][ 49]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/GAME/singleton.singleton
+[2023.11.15-16.30.48:218][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.15-16.33.58:081][629]BlueprintLog: New page: Compile PERSONAJE
+[2023.11.15-16.33.58:120][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.15-16.33.58:526][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-16.33.58:632][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/GAME/PERSONAJE" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset" SILENT=true
+[2023.11.15-16.33.58:643][665]LogSavePackage: Moving output files for package: /Game/JUEGO/GAME/PERSONAJE
+[2023.11.15-16.33.58:643][665]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/PERSONAJEAC5F63444C16BEAF45DB4C9544EC2ABD.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset'
+[2023.11.15-16.33.58:647][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 3.79 sec)
+[2023.11.15-16.33.58:654][665]AssetCheck: New page: Asset Save: PERSONAJE
+[2023.11.15-16.33.58:654][665]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/GAME/PERSONAJE.PERSONAJE
+[2023.11.15-16.41.12:275][624]LogDerivedDataCache: C:/Users/DVRV/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.059 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1869 files in 2950 folders with total size 203 MiB.
+[2023.11.15-16.44.03:370][145]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Digital Audio (S/PDIF) (High Definition Audio Device), InstanceID=1
+[2023.11.15-16.44.03:373][145]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2936
+[2023.11.15-16.44.03:398][148]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a23e6b37-e17a-4e7d-9e9f-1c556b451b86}, Name=Digital Audio (S/PDIF) (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.37
+[2023.11.15-16.44.03:398][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.15-16.44.03:400][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.15-17.00.25:654][952]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=VY249 (NVIDIA High Definition Audio), InstanceID=1
+[2023.11.15-17.00.25:662][952]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2936
+[2023.11.15-17.00.25:737][957]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3e42293e-ce03-4dae-bd20-38dedfe2c537}, Name=VY249 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=67.91
+[2023.11.15-17.00.25:737][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.15-17.00.25:739][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.15-17.02.07:237][ 71]BlueprintLog: New page: Compile PERSONAJE
+[2023.11.15-17.02.07:271][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.15-17.02.07:812][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-17.02.07:925][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/GAME/PERSONAJE" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset" SILENT=true
+[2023.11.15-17.02.07:935][116]LogSavePackage: Moving output files for package: /Game/JUEGO/GAME/PERSONAJE
+[2023.11.15-17.02.07:935][116]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/PERSONAJE250F7A634014AD374B925FB532614E9B.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/GAME/PERSONAJE.uasset'
+[2023.11.15-17.02.07:939][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 3.92 sec)
+[2023.11.15-17.02.07:945][116]AssetCheck: New page: Asset Save: PERSONAJE
+[2023.11.15-17.02.07:945][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/GAME/PERSONAJE.PERSONAJE
+[2023.11.15-17.02.11:175][486]LogViewport: Scene viewport resized to 1233x685, mode Windowed.
+[2023.11.15-17.04.17:311][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.15-17.04.17:313][878]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/JUEGO/ESCENAS/menuLevel' took 0.016
+[2023.11.15-17.04.17:313][878]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/JUEGO/ASSETS/Damager] ([2] browsable assets)...
+[2023.11.15-17.04.17:358][878]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/JUEGO/ASSETS/Damager.Damager]
+[2023.11.15-17.04.17:358][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/JUEGO/ASSETS/Damager]
+[2023.11.15-17.04.17:358][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/ASSETS/Damager" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Saved/Autosaves/Game/JUEGO/ASSETS/Damager_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.11.15-17.04.17:362][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/JUEGO/ASSETS/Damager_Auto3
+[2023.11.15-17.04.17:362][878]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/Damager_Auto3475873564B9832F770A408A88F8172C8.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/Autosaves/Game/JUEGO/ASSETS/Damager_Auto3.uasset'
+[2023.11.15-17.04.17:363][878]LogFileHelpers: Auto-saving content packages took 0.050
+[2023.11.15-17.05.14:096][404]LogEditorTransaction: Undo Add Node
+[2023.11.15-17.05.14:632][411]111124_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.11.15-17.13.42:858][678]BlueprintLog: New page: Compile Damager
+[2023.11.15-17.13.42:885][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.15-17.13.43:278][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-17.13.43:363][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/ASSETS/Damager" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset" SILENT=true
+[2023.11.15-17.13.43:369][716]LogSavePackage: Moving output files for package: /Game/JUEGO/ASSETS/Damager
+[2023.11.15-17.13.43:369][716]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/DamagerF07D8F98448DD24BA4D8CEA25E2E3810.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ASSETS/Damager.uasset'
+[2023.11.15-17.13.43:374][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.02 sec)
+[2023.11.15-17.13.43:380][716]AssetCheck: New page: Asset Save: Damager
+[2023.11.15-17.13.43:380][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/JUEGO/ASSETS/Damager.Damager
+[2023.11.15-17.13.58:233][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.15-17.13.58:237][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.15-17.13.58:238][419]PIE: New page: PIE session: menuLevel (15 nov. 2023 19:13:58)
+[2023.11.15-17.13.58:238][419]LogPlayLevel: Creating play world package: /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-17.13.58:241][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002885s)
+[2023.11.15-17.13.58:241][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JUEGO/ESCENAS/menuLevel.menuLevel to /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel (0.002918s)
+[2023.11.15-17.13.58:252][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.15-17.13.58:254][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-17.13.58:255][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-17.13.58:255][419]LogAIModule: Creating AISystem for world menuLevel
+[2023.11.15-17.13.58:255][419]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2023.11.15-17.13.58:255][419]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.11.15-17.13.58:255][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.15-17.13.58:255][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.15-17.13.58:255][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.15-17.13.58:255][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.15-17.13.58:256][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.15-17.13.58:256][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.15-17.13.58:256][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.15-17.13.58:256][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.15-17.13.58:256][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.15-17.13.58:256][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.15-17.13.58:256][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.15-17.13.58:258][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.15-17.13.58:272][419]LogAudioMixer: Display: Using Audio Hardware Device VY249 (NVIDIA High Definition Audio)
+[2023.11.15-17.13.58:272][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.15-17.13.58:272][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.15-17.13.58:272][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.15-17.13.58:273][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.11.15-17.13.58:273][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.11.15-17.13.58:274][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.11.15-17.13.58:274][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.11.15-17.13.58:274][419]LogInit: FAudioDevice initialized with ID 8.
+[2023.11.15-17.13.58:274][419]LogAudio: Display: Audio Device (ID: 8) registered with world 'menuLevel'.
+[2023.11.15-17.13.58:274][419]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.15-17.13.58:278][419]LogLoad: Game class is 'MISREGLAS_C'
+[2023.11.15-17.13.58:279][419]LogWorld: Bringing World /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel up for play (max tick rate 0) at 2023.11.15-18.13.58
+[2023.11.15-17.13.58:279][419]LogWorld: Bringing up level for play took: 0.001178
+[2023.11.15-17.13.58:281][419]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.11.15-17.13.58:284][419]PIE: Server logged in
+[2023.11.15-17.13.58:284][419]PIE: Play in editor total start time 0,047 seconds.
+[2023.11.15-17.14.02:500][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-17.14.02:500][875]LogWorld: BeginTearingDown for /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-17.14.02:500][875]LogWorld: UWorld::CleanupWorld for menuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-17.14.02:501][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-17.14.02:504][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.15-17.14.02:509][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-17.14.02:522][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-17.14.02:522][875]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.15-17.14.02:522][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.15-17.14.02:525][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.15-17.14.02:530][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.15-17.14.02:601][877]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.11.15-17.14.13:963][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JUEGO/ASSETS/Damager.Damager_C
+[2023.11.15-17.14.13:963][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JUEGO/ASSETS/Damager.Damager_C
+[2023.11.15-17.14.13:965][126]LogActorFactory: Actor Factory spawned Blueprint /Game/JUEGO/ASSETS/Damager.Damager as actor: Damager_C /Game/JUEGO/ESCENAS/menuLevel.menuLevel:PersistentLevel.Damager_C_0
+[2023.11.15-17.14.13:966][126]LogActorFactory: Actor Factory spawned Blueprint /Game/JUEGO/ASSETS/Damager.Damager as actor: Damager_C /Game/JUEGO/ESCENAS/menuLevel.menuLevel:PersistentLevel.Damager_C_0
+[2023.11.15-17.14.14:630][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JUEGO/ASSETS/Damager.Damager_C
+[2023.11.15-17.14.14:630][196]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/JUEGO/ASSETS/Damager.Damager_C
+[2023.11.15-17.14.14:632][196]LogActorFactory: Actor Factory spawned Blueprint /Game/JUEGO/ASSETS/Damager.Damager as actor: Damager_C /Game/JUEGO/ESCENAS/menuLevel.menuLevel:PersistentLevel.Damager_C_1
+[2023.11.15-17.14.14:632][196]LogActorFactory: Actor Factory spawned Blueprint /Game/JUEGO/ASSETS/Damager.Damager as actor: Damager_C /Game/JUEGO/ESCENAS/menuLevel.menuLevel:PersistentLevel.Damager_C_1
+[2023.11.15-17.14.18:855][665]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.15-17.14.18:867][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.15-17.14.18:867][665]PIE: New page: PIE session: menuLevel (15 nov. 2023 19:14:18)
+[2023.11.15-17.14.18:867][665]LogPlayLevel: Creating play world package: /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-17.14.18:870][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002808s)
+[2023.11.15-17.14.18:870][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JUEGO/ESCENAS/menuLevel.menuLevel to /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel (0.002836s)
+[2023.11.15-17.14.18:880][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.15-17.14.18:883][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-17.14.18:883][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-17.14.18:884][665]LogAIModule: Creating AISystem for world menuLevel
+[2023.11.15-17.14.18:884][665]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2023.11.15-17.14.18:884][665]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.11.15-17.14.18:884][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.15-17.14.18:884][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.15-17.14.18:884][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.15-17.14.18:884][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.15-17.14.18:884][665]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.15-17.14.18:884][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.15-17.14.18:884][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.15-17.14.18:884][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.15-17.14.18:884][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.15-17.14.18:884][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.15-17.14.18:884][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.15-17.14.18:886][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.15-17.14.18:896][665]LogAudioMixer: Display: Using Audio Hardware Device VY249 (NVIDIA High Definition Audio)
+[2023.11.15-17.14.18:897][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.15-17.14.18:897][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.15-17.14.18:897][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.15-17.14.18:898][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.11.15-17.14.18:898][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.11.15-17.14.18:898][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.11.15-17.14.18:898][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.11.15-17.14.18:898][665]LogInit: FAudioDevice initialized with ID 9.
+[2023.11.15-17.14.18:900][665]LogAudio: Display: Audio Device (ID: 9) registered with world 'menuLevel'.
+[2023.11.15-17.14.18:900][665]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.15-17.14.18:902][665]LogLoad: Game class is 'MISREGLAS_C'
+[2023.11.15-17.14.18:903][665]LogWorld: Bringing World /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel.menuLevel up for play (max tick rate 0) at 2023.11.15-18.14.18
+[2023.11.15-17.14.18:903][665]LogWorld: Bringing up level for play took: 0.001369
+[2023.11.15-17.14.18:905][665]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.11.15-17.14.18:908][665]PIE: Server logged in
+[2023.11.15-17.14.18:908][665]PIE: Play in editor total start time 0,049 seconds.
+[2023.11.15-17.14.47:311][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-17.14.47:311][ 45]LogWorld: BeginTearingDown for /Game/JUEGO/ESCENAS/UEDPIE_0_menuLevel
+[2023.11.15-17.14.47:311][ 45]LogWorld: UWorld::CleanupWorld for menuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-17.14.47:311][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-17.14.47:316][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.15-17.14.47:322][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-17.14.47:333][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-17.14.47:333][ 45]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.15-17.14.47:333][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.15-17.14.47:335][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.15-17.14.47:341][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.15-17.14.47:408][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.11.15-17.15.00:084][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.15-17.15.00:131][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JUEGO/ESCENAS/menuLevel" FILE="D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ESCENAS/menuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.15-17.15.00:149][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.11.15-17.15.00:161][540]LogSavePackage: Moving output files for package: /Game/JUEGO/ESCENAS/menuLevel
+[2023.11.15-17.15.00:161][540]LogSavePackage: Moving 'D:/CURSOS/UNREAL/Haloween_Dream/Saved/menuLevel5EA4C67640499059E5286B99EE1FA8EC.tmp' to 'D:/CURSOS/UNREAL/Haloween_Dream/Content/JUEGO/ESCENAS/menuLevel.umap'
+[2023.11.15-17.15.00:168][540]LogFileHelpers: Saving map 'menuLevel' took 0.037
+[2023.11.15-17.15.00:174][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 4.10 sec)
+[2023.11.15-17.15.00:175][540]AssetCheck: New page: Asset Save: menuLevel
+[2023.11.15-17.15.00:175][540]LogContentValidation: Display: Validating /Script/Engine.World /Game/JUEGO/ESCENAS/menuLevel.menuLevel
+[2023.11.15-17.15.02:380][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.11.15-17.15.16:789][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
