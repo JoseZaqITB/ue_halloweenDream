@@ -1,0 +1,35 @@
+[33mcommit c9a352c013b734d81d02e312205e6f41882ffa7e[m[33m ([m[1;36mHEAD -> [m[1;32menlaces2[m[33m)[m
+Author: yoseyus <yoseyus@gmail.com>
+Date:   Wed Nov 15 22:34:06 2023 +0100
+
+    fix merge between enlaces and master
+
+[33mcommit 72e826de0d9690f0eae21a86356d35eaa3fb1f5d[m[33m ([m[1;31morigin/enlaces[m[33m)[m
+Author: maquinaDvrv <maquinaDvrv@hotmail.com>
+Date:   Wed Nov 15 19:06:55 2023 +0100
+
+    add some unsaved changes
+
+[33mcommit 41d2c27afca3ece8c6d0079cf134c5a1f884f416[m
+Author: maquinaDvrv <maquinaDvrv@hotmail.com>
+Date:   Wed Nov 15 19:05:31 2023 +0100
+
+    add all neighboorhoods
+
+[33mcommit f91d49127efaa0994aabb778d55c71b26d35a868[m
+Author: maquinaDvrv <maquinaDvrv@hotmail.com>
+Date:   Wed Nov 15 18:16:38 2023 +0100
+
+    add life progress bar, and a damager
+
+[33mcommit 7809887fdb5ad8db023a56db2e09046966f62ac9[m
+Author: maquinaDvrv <maquinaDvrv@hotmail.com>
+Date:   Wed Nov 15 17:02:03 2023 +0100
+
+    fix house objects organization, duplicate flatpiece and rename it bigflat
+
+[33mcommit 8d83c5df3e08e85f7d3e22843944b17e8e6e79a0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: maquinaDvrv <maquinaDvrv@hotmail.com>
+Date:   Mon Nov 13 18:57:06 2023 +0100
+
+    add first commit
